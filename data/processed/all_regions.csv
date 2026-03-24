@@ -1,0 +1,121 @@
+region,keyword,interest,category
+England,cost of living,42,cost_of_living
+Northern Ireland,cost of living,54,cost_of_living
+Scotland,cost of living,50,cost_of_living
+Wales,cost of living,55,cost_of_living
+England,energy bills,4,cost_of_living
+Northern Ireland,energy bills,2,cost_of_living
+Scotland,energy bills,4,cost_of_living
+Wales,energy bills,4,cost_of_living
+England,food bank,12,cost_of_living
+Northern Ireland,food bank,9,cost_of_living
+Scotland,food bank,10,cost_of_living
+Wales,food bank,11,cost_of_living
+England,inflation UK,11,cost_of_living
+Northern Ireland,inflation UK,8,cost_of_living
+Scotland,inflation UK,9,cost_of_living
+Wales,inflation UK,7,cost_of_living
+England,mortgage rates,31,cost_of_living
+Northern Ireland,mortgage rates,27,cost_of_living
+Scotland,mortgage rates,27,cost_of_living
+Wales,mortgage rates,23,cost_of_living
+England,Netflix,44,entertainment_culture
+Northern Ireland,Netflix,39,entertainment_culture
+Scotland,Netflix,45,entertainment_culture
+Wales,Netflix,45,entertainment_culture
+England,Spotify,15,entertainment_culture
+Northern Ireland,Spotify,12,entertainment_culture
+Scotland,Spotify,16,entertainment_culture
+Wales,Spotify,15,entertainment_culture
+England,cinema,34,entertainment_culture
+Northern Ireland,cinema,44,entertainment_culture
+Scotland,cinema,33,entertainment_culture
+Wales,cinema,34,entertainment_culture
+England,festival tickets,0,entertainment_culture
+Northern Ireland,festival tickets,0,entertainment_culture
+Scotland,festival tickets,0,entertainment_culture
+Wales,festival tickets,0,entertainment_culture
+England,streaming,7,entertainment_culture
+Northern Ireland,streaming,5,entertainment_culture
+Scotland,streaming,6,entertainment_culture
+Wales,streaming,6,entertainment_culture
+England,A&E,17,health_nhs
+Northern Ireland,A&E,24,health_nhs
+Scotland,A&E,13,health_nhs
+Wales,A&E,20,health_nhs
+England,GP appointment,3,health_nhs
+Northern Ireland,GP appointment,1,health_nhs
+Scotland,GP appointment,1,health_nhs
+Wales,GP appointment,1,health_nhs
+England,NHS waiting times,0,health_nhs
+Northern Ireland,NHS waiting times,1,health_nhs
+Scotland,NHS waiting times,2,health_nhs
+Wales,NHS waiting times,1,health_nhs
+England,mental health,79,health_nhs
+Northern Ireland,mental health,74,health_nhs
+Scotland,mental health,84,health_nhs
+Wales,mental health,78,health_nhs
+England,prescription charges,1,health_nhs
+Northern Ireland,prescription charges,0,health_nhs
+Scotland,prescription charges,0,health_nhs
+Wales,prescription charges,0,health_nhs
+England,Universal Credit,82,jobs_economy
+Northern Ireland,Universal Credit,83,jobs_economy
+Scotland,Universal Credit,83,jobs_economy
+Wales,Universal Credit,83,jobs_economy
+England,job vacancies,2,jobs_economy
+Northern Ireland,job vacancies,1,jobs_economy
+Scotland,job vacancies,2,jobs_economy
+Wales,job vacancies,2,jobs_economy
+England,minimum wage,11,jobs_economy
+Northern Ireland,minimum wage,13,jobs_economy
+Scotland,minimum wage,11,jobs_economy
+Wales,minimum wage,11,jobs_economy
+England,redundancy,2,jobs_economy
+Northern Ireland,redundancy,1,jobs_economy
+Scotland,redundancy,2,jobs_economy
+Wales,redundancy,2,jobs_economy
+England,work from home,3,jobs_economy
+Northern Ireland,work from home,2,jobs_economy
+Scotland,work from home,2,jobs_economy
+Wales,work from home,2,jobs_economy
+England,Brexit,31,politics_news
+Northern Ireland,Brexit,45,politics_news
+Scotland,Brexit,31,politics_news
+Wales,Brexit,30,politics_news
+England,House of Commons,6,politics_news
+Northern Ireland,House of Commons,6,politics_news
+Scotland,House of Commons,6,politics_news
+Wales,House of Commons,5,politics_news
+England,Keir Starmer,26,politics_news
+Northern Ireland,Keir Starmer,24,politics_news
+Scotland,Keir Starmer,27,politics_news
+Wales,Keir Starmer,28,politics_news
+England,Reform UK,14,politics_news
+Northern Ireland,Reform UK,7,politics_news
+Scotland,Reform UK,11,politics_news
+Wales,Reform UK,14,politics_news
+England,general election,23,politics_news
+Northern Ireland,general election,18,politics_news
+Scotland,general election,25,politics_news
+Wales,general election,23,politics_news
+England,Formula 1,4,sport
+Northern Ireland,Formula 1,3,sport
+Scotland,Formula 1,6,sport
+Wales,Formula 1,3,sport
+England,Premier League,71,sport
+Northern Ireland,Premier League,80,sport
+Scotland,Premier League,59,sport
+Wales,Premier League,69,sport
+England,Six Nations,4,sport
+Northern Ireland,Six Nations,9,sport
+Scotland,Six Nations,14,sport
+Wales,Six Nations,17,sport
+England,The Ashes,1,sport
+Northern Ireland,The Ashes,0,sport
+Scotland,The Ashes,1,sport
+Wales,The Ashes,0,sport
+England,Wimbledon,20,sport
+Northern Ireland,Wimbledon,8,sport
+Scotland,Wimbledon,20,sport
+Wales,Wimbledon,11,sport
