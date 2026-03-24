@@ -22,22 +22,24 @@ streamlit run app/dashboard.py
 ```
 
 ## Project structure
+```
 uk-search-trends/
 ├── data/
-│   ├── raw/          # unmodified CSVs from pytrends
-│   └── processed/    # cleaned data ready for analysis
-├── notebooks/        # exploratory work (optional scratch pad)
+│   ├── raw/            # unmodified CSVs from pytrends
+│   └── processed/      # cleaned data ready for analysis
+├── notebooks/          # exploratory scratch work
 ├── src/
-│   ├── collect.py    # data collection via pytrends
-│   ├── clean.py      # data cleaning and processing
-│   ├── analyse.py    # analysis functions
-│   └── visualise.py  # chart/map helpers
+│   ├── collect.py      # data collection via pytrends
+│   ├── clean.py        # data cleaning and processing
+│   ├── analyse.py      # analysis functions
+│   └── visualise.py    # chart and map helpers
 ├── app/
-│   └── dashboard.py  # Streamlit app
-├── assets/           # shapefiles, images, logos
-├── requirements.txt
+│   └── dashboard.py    # Streamlit app
+├── assets/             # shapefiles, images, logos
+├── requirements.txt    # Python dependencies
 ├── .gitignore
 └── README.md
+```
 
 ## Methodology
 [to be completed]
